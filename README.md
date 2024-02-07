@@ -16,3 +16,5 @@ En el presente código de python encontrarás una solución para cargar un excel
 -> Cargas inmediatas de archivos excel a la base de datos de SQL
 -> Automatizar transformaciones tediosas
 -> Levantar información de diferentes áreas de tu compañía, especialmente las que no utilizan tecnología
+-> Recaudación y limpieza de información para posteriores análisis
+-> Enriquecer con información de diferentes fuentes a un modelo analítico
