@@ -2,10 +2,11 @@
 En el presente código de python encontrarás una solución para cargar un excel que se aloja en una ruta dada y se cargue en una tabla de sql. Se procuró utilizar solo funciones.
 
 # Consideraciones
--> debes de ingresar la ruta del archivo incluyendo su extensión
+-> Al ejecutar el Script debes de ingresar la ruta del archivo incluyendo su extensión
 -> se hizo el código pensado en cargar solo archivos excel
 -> se realizó el código usando funciones
 -> se realiza la conexión Ms SQL, mediante la autenticación de Windows
+-> si deseas utilizar el archivo bat, deberás de editar ingresando la ruta de la carpeta en donde tendrás alojado tu script de python
 
 # Personalización
 -> en la línea 36, deberás de actualizar el nombre de tu servidor
